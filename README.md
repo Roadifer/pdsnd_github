@@ -1,16 +1,14 @@
 ### Date created
-commit 3c8a941b44dcd47b1723ec587784d11283de9b92 (HEAD -> documentation, origin/master, origin/HEAD, master)
-Author: unknown <travis@roadifer.com>
-Date:   Fri Jul 10 11:56:39 2020 -0700
+Include the date you created this project and README file.
 
 ### Project Title
 Replace the Project Title
 
 ### Description
-Describe what your project is about and what it does
+This project gives data on Bike rentals in Washington chicago and new york
 
 ### Files used
-Include the files used
+IBikeshare.py
+
 
 ### Credits
-It's important to give proper credit. Add links to any repo that inspired you or blogposts you consulted.
