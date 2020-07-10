@@ -43,7 +43,7 @@ def get_filters():
         else:
                 print('You did not select a valid day please select a day of the week. Example monday')
 
-
+    #This will display a long line
     print('-'*40)
     return city, month, day
 
