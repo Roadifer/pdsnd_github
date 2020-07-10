@@ -12,3 +12,4 @@ IBikeshare.py
 
 
 ### Credits
+Credit to me and the udacity course insruction/ grader
